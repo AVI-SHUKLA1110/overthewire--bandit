@@ -27,13 +27,16 @@ Home page: https://overthewire.org/wargames/bandit/
 
 | Username | Password |
 | :--- | :--- |
-| bandit1 | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 |
-
+| bandit1 | NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL |
+| :--- | :--- |
+| cmd | cat (filename) |
 
 
 | Username | Password |
 | :--- | :--- |
-| bandit2 | CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 |
+| bandit2 | rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi |
+| :--- | :--- |
+| cmd | cat./- |
 
 
 
