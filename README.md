@@ -184,7 +184,6 @@ Home page: https://overthewire.org/wargames/bandit/
 | bandit25 | uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG |
 
 
-```
 
 | Username | Password |
 | :--- | :--- |
