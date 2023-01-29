@@ -40,24 +40,29 @@ Home page: https://overthewire.org/wargames/bandit/
 
 | Username | Password |
 | :--- | :--- |
-| bandit3 | UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK |
+| bandit3 | aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG |
+| cmd | cat 'spaces in this filename'|
 
-
-
-| Username | Password |
-| :--- | :--- |
-| bandit4 | pIwrPrtPN36QITSp3EQaw936yaFoFgAB |
 
 
 
 | Username | Password |
 | :--- | :--- |
-| bandit5 | koReBOKuIDDepwhWk7jZC0RTdopnAYKh |
+| bandit4 | 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe |
+| cmd | file ./-file* |
+| cmd | find . -type f -exec file {} \; | grep ":.* ASCII text" |
+
 
 
 | Username | Password |
 | :--- | :--- |
-| bandit6 | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 |
+| bandit5 | lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR |
+| cmd | find -size 1033c |
+
+
+| Username | Password |
+| :--- | :--- |
+| bandit6 | P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU |
 
 
 ## Level 7-12
