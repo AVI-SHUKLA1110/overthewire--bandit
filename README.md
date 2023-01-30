@@ -71,25 +71,29 @@ Home page: https://overthewire.org/wargames/bandit/
 
 | Username | Password |
 | :--- | :--- |
-| bandit7 | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs |
+| bandit7 | z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S |
+| cmd | find /-user bandit7 -group bandit6 -size 33c |
 
 
 
 | Username | Password |
 | :--- | :--- |
-| bandit8 | cvX2JJa4CFALtqS87jk27qwqGhBM9plV |
+| bandit8 |TESKZC0XvTetK0S9xNwm25STk5iWrBvP|
+|cmd | grep [word] [filename] |
+
+
+To find the line that occurs only once in the file, we first sort the lines and then filter for the unique one.
+| Username | Password |
+| :--- | :--- |
+| bandit9 |EN632PlfYiZbn3PhVK3XOGSlNInNE00t |
+|cmd | sort [filename]    uniq -u |
 
 
 
 | Username | Password |
 | :--- | :--- |
-| bandit9 | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR |
-
-
-
-| Username | Password |
-| :--- | :--- |
-| bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk |
+| bandit10 | G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s |
+|cmd| strings data.txt    grep === |
 
 
 
