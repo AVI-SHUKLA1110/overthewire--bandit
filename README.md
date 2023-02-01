@@ -99,13 +99,13 @@ To find the line that occurs only once in the file, we first sort the lines and 
 
 | Username | Password |
 | :--- | :--- |
-| bandit11 | IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR |
+| bandit11 | 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM |
 
 
 
 | Username | Password |
 | :--- | :--- |
-| bandit12 | 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu |
+| bandit12 | JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv |
 
 
 
@@ -115,7 +115,7 @@ To find the line that occurs only once in the file, we first sort the lines and 
 
 | Username | Password |
 | :--- | :--- |
-| bandit13 | 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL |
+| bandit13 | wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw |
 
 
 | Username | Password |
